@@ -5,3 +5,7 @@ git commit -m "comment" filename
 git push -u origin master
 git pull - pull lastest
 git clone
+git branch name
+git checkout (branch name)
+git merge login
+:wq
