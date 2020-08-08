@@ -1,0 +1,7 @@
+git init - initalize local git repo
+git add (file names)
+git status
+git commit -m "comment" filename
+git push -u origin master
+git pull - pull lastest
+git clone
